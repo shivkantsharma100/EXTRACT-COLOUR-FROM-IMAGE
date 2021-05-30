@@ -24,3 +24,5 @@ color_thief = ColorThief('https://storage.googleapis.com/bizupimg/profile_photo/
 # get the dominant color
 dominant_color = color_thief.get_color(quality=1)
 
+
+
